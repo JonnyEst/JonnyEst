@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Kotlin, Php-laravel
 - 📘 Systems engineering student at Jorge Tadeo Lozano University-(Bogotá Colombia)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyEst&layout=compact&langs_count=7&theme=dark"/>
+  
   
   ---
 <div style="display: inline_block"><br>
