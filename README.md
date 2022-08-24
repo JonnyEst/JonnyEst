@@ -9,7 +9,7 @@
   ---
 <div style="display: inline_block"><br>
 
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonnyEst&show_icons=true&locale=en&layout=compact" alt="JonnyEst" /></p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonnyEst&show_icons=true&locale=en&layout=compact" alt="JonnyEst" /></p> 
   
   # 🖥️ Coding
   
