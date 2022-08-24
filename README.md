@@ -9,7 +9,7 @@
   ---
 <div style="display: inline_block"><br>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JonnyEst&show_icons=true&locale=en&theme=radical" alt="JonnyEst" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JonnyEst&show_icons=true&locale=en&theme=tokyonight" alt="JonnyEst" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=JonnyEst&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="JonnyEst" /></p>
   # 🖥️ Coding
   
