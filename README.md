@@ -1,4 +1,4 @@
-![MasterHead](https://www.videosoftdev.com/images/video_editor/how-to/raindrops/sharper.gif)
+![MasterHead](https://c.tenor.com/mOkzsjF_gDMAAAAC/aot-waiting.gif)
 
 
 
