@@ -4,8 +4,8 @@
 
 ### Hi i´m Jonny Estupiñan 👋
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Kotlin, Php-laravel
+- 🔭 I’m currently working on back-end
+- 🌱 I’m currently learning Php, Kotlin.
 - 📘 Systems engineering student at Jorge Tadeo Lozano University-(Bogotá Colombia)
 
   
